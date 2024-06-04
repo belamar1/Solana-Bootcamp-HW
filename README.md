@@ -6,7 +6,7 @@ I hope you'll find this repository useful and clear. Let's learn and grow togeth
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. `[Introduction](introduction)`
 2. [Prerequisites](#prerequisites)
 3. [Getting Started](#getting-started)
 4. [Homework Exercises](#homework-exercises)
