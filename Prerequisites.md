@@ -1,4 +1,4 @@
-# Eligibility Criteria for Solana Bootcamp
+# 🎓 Eligibility Criteria for Solana Bootcamp 🚀
 
 To be eligible for the Solana Bootcamp, applicants should meet the following criteria:
 
