@@ -1,6 +1,6 @@
 # Solana Bootcamp Homework Exercises by Encode 🎓🚀
 
-Welcome to the **Solana Bootcamp Homework Exercises by Encode** repository! This repository documents my journey through the Solana Bootcamp, covering a variety of exercises and projects. It serves as a resource for anyone interested in learning about Solana and contributing to the growth and success of the Solana community.
+Welcome to the **Encode-Solana Bootcamp Homework Exercises** repository! This repository documents my journey through the Solana Bootcamp, covering a variety of exercises and projects. It serves as a resource for anyone interested in learning about Solana and supporting the development and expansion of the Solana ecosystem.
 
 I hope you'll find this repository useful and clear. Let's learn and grow together! 🌟
 
@@ -34,13 +34,3 @@ I hope you'll find this repository useful and clear. Let's learn and grow togeth
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact](#contact)
-
-## Introduction
-
-This repository contains my solutions to the homework exercises provided by the Solana Bootcamp by Encode. I have documented each exercise with detailed explanations and code samples to help others understand the concepts and implementation details.
-
-The Solana Bootcamp by Encode is an excellent resource for learning about blockchain development on the Solana platform. I highly recommend it to anyone interested in this field.
-
-I hope you'll find this repository useful and clear. Let's dive in and enjoy the learning process together! 🚀
-
-
