@@ -13,7 +13,6 @@ Before you begin, make sure you have both Rust and Solana CLI installed. If you'
 
    ```bash
 solana config set --url localhost
-
 3. Run in a separate terminal window: This will spin up a local Solana cluster for you with the RPC endpoint defaulted to localhost:8899, equivalent to running solana-test-validator --reset.
 
    ```bash
