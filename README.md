@@ -1,3 +1,4 @@
+***** Note: Please bear with me, keep checking this repo*****
 # Solana Bootcamp Homework Exercises by Encode 🎓🚀
 
 Welcome to the **Encode-Solana Bootcamp Homework Exercises** repository! This repository documents my journey through the Solana Bootcamp, covering a variety of exercises and projects. It serves as a resource for anyone interested in learning about Solana and contributing to the growth and success of the Solana community.
