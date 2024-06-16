@@ -40,6 +40,4 @@
 
 ---
 
-**Try it out on [Rust Playground]([https://play.rust-lang.org/](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9709f5c874cdf5ee3bbcb3b5d38960cb))!**
-
-
+**Try it out on [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021&gist=9709f5c874cdf5ee3bbcb3b5d38960cb)!**
