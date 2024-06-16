@@ -9,7 +9,7 @@
 
 ## Break Solana Game 🕹️
 
-1. **Challenge:** In your teams, try to break the Solana game on one of the test networks.
+1. **Challenge:** In your teams, try the [break Solana](https://break.solana.com/wallet?cluster=devnet)!** game on one of the test networks.
 
 ---
 
